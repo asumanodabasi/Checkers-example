@@ -1,0 +1,16 @@
+C:\Users\KARDELEN\source\repos\damaornbtk\bin\Debug\netcoreapp3.1\damaornbtk.exe
+C:\Users\KARDELEN\source\repos\damaornbtk\bin\Debug\netcoreapp3.1\damaornbtk.deps.json
+C:\Users\KARDELEN\source\repos\damaornbtk\bin\Debug\netcoreapp3.1\damaornbtk.runtimeconfig.json
+C:\Users\KARDELEN\source\repos\damaornbtk\bin\Debug\netcoreapp3.1\damaornbtk.runtimeconfig.dev.json
+C:\Users\KARDELEN\source\repos\damaornbtk\bin\Debug\netcoreapp3.1\damaornbtk.dll
+C:\Users\KARDELEN\source\repos\damaornbtk\bin\Debug\netcoreapp3.1\damaornbtk.pdb
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.csproj.AssemblyReference.cache
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.Form1.resources
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.csproj.GenerateResource.cache
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.AssemblyInfoInputs.cache
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.AssemblyInfo.cs
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.csproj.CoreCompileInputs.cache
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.dll
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.pdb
+C:\Users\KARDELEN\source\repos\damaornbtk\obj\Debug\netcoreapp3.1\damaornbtk.genruntimeconfig.cache
